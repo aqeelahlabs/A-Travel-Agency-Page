@@ -29,7 +29,7 @@ https://aqeelahlabs.github.io/A-Travel-Agency-Page/
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   https://github.com/aqeelahlabs/A-Travel-Agency-Page.git
 ```
 2. Open `index.html` in your browser.
 
