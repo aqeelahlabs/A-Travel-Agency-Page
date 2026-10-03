@@ -1,33 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Travel Agency Page</title>
-    <meta name="description"content="A travel agency page showing family holiday destinations"/>
-    </head>
-    <body>
-      <h1>Drakensburg,Durban and Mozambique</h1>
-      <p>Beach holidays, Mountain escapes, Tropical destinations and more</p>
-      <h2>Packages</h2>
-      <p>Family Packages for parents and children, Romantic Getaways for couples, Weeekend Breaks for the whole family and Adventure Trips for thrill seekers!</p>
-      <ul>
-        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
-      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
-      </ul>
-      <h2>Top Itineraries</h2>
-      <figure>
-        <a href="https://www.freecodecamp.org/learn" target="_blank">
-        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"  alt="The Colloseum in Rome"></a>
-        <figcaption>Rome city break: explore ancient history and Italian food in the heart of the city</figcaption>
-        </figure>
-        <figure>
-          <a href="https://www.freecodecamp.org/learn" target="_blank">
-          <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Snow-capped mountains in the Alps"></a>
-          <figcaption>Alphine Adventure: hiking, scenic views and mountain lodge stays</figcaption>
-          </figure>
-          <figure>
-            <a href="https://www.freecodecamp.org/learn"  target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="calm blue sea along the coast"></a>
-            <figcaption>Beach Break: relax along the beach with a 5 to 7 night coastal escape</figcaption>
-            </figure>
-      </body>
-    </html>
+# Travel Agency Page
+
+A simple travel agency web page showcasing holiday destinations, travel packages and top itineraries. Built as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+
+## Features
+
+- Page title and introduction covering Drakensberg, Durban and Mozambique
+- A packages section describing family, romantic, weekend and adventure options
+- Links to Group Travels and Private Tours
+- A "Top Itineraries" section with clickable images and captions for a city break, a mountain adventure and a beach break
+
+## What I Practised
+
+- Structuring a page with semantic HTML5 elements
+- Using headings (`h1`, `h2`) to create a clear content hierarchy
+- Adding links that open in a new tab with `target="_blank"`
+- Marking up images with `figure`, `figcaption` and descriptive `alt` text
+- Writing a `meta` description for the page
+
+## Built With
+
+- HTML5
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
