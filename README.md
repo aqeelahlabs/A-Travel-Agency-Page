@@ -4,7 +4,7 @@ A simple travel agency web page showcasing holiday destinations, travel packages
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+https://aqeelahlabs.github.io/A-Travel-Agency-Page/
 
 ## Features
 
