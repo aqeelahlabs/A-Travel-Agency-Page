@@ -8,7 +8,7 @@ A simple travel agency web page showcasing holiday destinations, travel packages
 
 ## Features
 
-- Page title and introduction covering Drakensberg, Durban and Mozambique
+- Page title and introduction covering Italy, Alps and Maldives
 - A packages section describing family, romantic, weekend and adventure options
 - Links to Group Travels and Private Tours
 - A "Top Itineraries" section with clickable images and captions for a city break, a mountain adventure and a beach break
